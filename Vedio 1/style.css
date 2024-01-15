@@ -6,6 +6,8 @@ body {
 h1 {
     color: #ffffff; /* blue */
 }
+
 li {
     color: #ff00ff; /* magenta */
+    text-decoration: none;
 }
