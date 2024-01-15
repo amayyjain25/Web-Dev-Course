@@ -1,0 +1,11 @@
+body {
+    background-color: #0a0707;
+    color: #ff0000; /* red */
+}
+
+h1 {
+    color: #ffffff; /* blue */
+}
+li {
+    color: #ff00ff; /* magenta */
+}
